@@ -1,0 +1,42 @@
+Frequency Sweep Report File 2022_09_15_08_13_PM
+Frequency table for LAT = 0 85C Model
+Frequency table for LAT = 2 85C Model
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 40.0 MHz  ; 40.0 MHz        ; CPUCLK              ;      ;
+; 65.51 MHz ; 65.51 MHz       ; CLK                 ;      ;
+; 78.65 MHz ; 78.65 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+Frequency table for LAT = 4 85C Model
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 39.69 MHz ; 39.69 MHz       ; CPUCLK              ;      ;
+; 70.42 MHz ; 70.42 MHz       ; CLK                 ;      ;
+; 86.0 MHz  ; 86.0 MHz        ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+Frequency table for LAT = 6 85C Model
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 38.59 MHz ; 38.59 MHz       ; CPUCLK              ;      ;
+; 70.76 MHz ; 70.76 MHz       ; CLK                 ;      ;
+; 86.04 MHz ; 86.04 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+Frequency table for LAT = 8 85C Model
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 38.14 MHz ; 38.14 MHz       ; CPUCLK              ;      ;
+; 69.55 MHz ; 69.55 MHz       ; CLK                 ;      ;
+; 72.85 MHz ; 72.85 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+Frequency table for LAT = 10 85C Model
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 38.14 MHz ; 38.14 MHz       ; CPUCLK              ;      ;
+; 69.55 MHz ; 69.55 MHz       ; CLK                 ;      ;
+; 72.85 MHz ; 72.85 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
