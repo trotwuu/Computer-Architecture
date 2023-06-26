@@ -1,0 +1,13 @@
+make system.syn
+
+
+asm asmFiles/asmfile
+sim -m
+synthesize -f 200 -d -m sytem_fpga
+diff memsim.hex memfpga.hex
+
+asm asmFiles/asmfile  //meminit
+sim -m
+synthesize -f 200 -d -m sytem_fpga  //wrapper, memfpga.hex
+diff memsim.hex memfpga.hex
+
